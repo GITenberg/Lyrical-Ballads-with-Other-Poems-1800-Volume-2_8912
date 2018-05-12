@@ -1,4 +1,8 @@
 _repo: Lyrical-Ballads-with-Other-Poems-1800-Volume-2_8912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wordsworth, William
@@ -19,6 +23,8 @@ description: "Lyrical Ballads, with a Few Other Poems is a collection of poems b
   \ For another edition, published in 1802, Wordsworth added an appendix titled Poetic\
   \ Diction in which he expanded the ideas set forth in the preface.\n\n\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8912#Lyrical-Ballads-with-Other-Poems-1800-Volume-2
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
